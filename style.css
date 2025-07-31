@@ -245,6 +245,18 @@ main p {
     font-size: 1.2rem;
     
 }
+.quote {
+    background: var(--color-secundario);
+    margin: 0;
+    padding: 0;
+
+}
+.quote p {
+    text-align: center;
+    padding: 40px 0;
+    font-size: 1.2rem;
+    color: var(--color-principal);
+}
 .galeria {
     width: 100%;
     display: grid;
